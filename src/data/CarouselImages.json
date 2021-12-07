@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://i.imgur.com/vuApMDG.jpg",
+        "text": "image text 1"
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://i.imgur.com/tVVjL7f.jpg",
+        "text": "image text 2"
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://i.imgur.com/R3604tH.jpg",
+        "text": "image text 3"
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://i.imgur.com/lWU861k.jpg",
+        "text": "image text 4"
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://i.imgur.com/s3sSbRY.jpg",
+        "text": "image text 5"
+    }
+]
