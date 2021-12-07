@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/garagecarpet-web/static/css/main.f7d7c115.chunk.css",
+    "main.js": "/garagecarpet-web/static/js/main.8785a151.chunk.js",
+    "main.js.map": "/garagecarpet-web/static/js/main.8785a151.chunk.js.map",
+    "runtime-main.js": "/garagecarpet-web/static/js/runtime-main.f8d16f32.js",
+    "runtime-main.js.map": "/garagecarpet-web/static/js/runtime-main.f8d16f32.js.map",
+    "static/js/2.9f99313c.chunk.js": "/garagecarpet-web/static/js/2.9f99313c.chunk.js",
+    "static/js/2.9f99313c.chunk.js.map": "/garagecarpet-web/static/js/2.9f99313c.chunk.js.map",
+    "static/js/3.0ebb833a.chunk.js": "/garagecarpet-web/static/js/3.0ebb833a.chunk.js",
+    "static/js/3.0ebb833a.chunk.js.map": "/garagecarpet-web/static/js/3.0ebb833a.chunk.js.map",
+    "index.html": "/garagecarpet-web/index.html",
+    "static/css/main.f7d7c115.chunk.css.map": "/garagecarpet-web/static/css/main.f7d7c115.chunk.css.map",
+    "static/js/2.9f99313c.chunk.js.LICENSE.txt": "/garagecarpet-web/static/js/2.9f99313c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8d16f32.js",
+    "static/js/2.9f99313c.chunk.js",
+    "static/css/main.f7d7c115.chunk.css",
+    "static/js/main.8785a151.chunk.js"
+  ]
+}
