@@ -11,6 +11,7 @@
     height: 65vh;
     object-fit: cover;
     overflow:hidden;
+    z-index: 0;
 }
 .number {
     color: #000000;
@@ -45,7 +46,7 @@
     border: none;
     user-select: none;
     background-color: black;
-    opacity: 75%;
+    opacity: 0.75;
 }
 .prev:hover, .next:hover {
     background-color: grey;
