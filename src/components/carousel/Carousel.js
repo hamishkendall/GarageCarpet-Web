@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { CSSTransition, SwitchTransition, TransitionGroup } from 'react-transition-group';
+import { CSSTransition, SwitchTransition } from 'react-transition-group';
 import './Carousel.css';
 
 function Carousel() {
@@ -48,8 +48,8 @@ function Carousel() {
 
             <div className="text">{imgSlide.text}</div>
 
-            <a className="prev" onClick={previousImage}>&#10094;</a>
-            <a className="next" onClick={nextImage}>&#10095;</a>
+            <button className="prev" onClick={previousImage}>&#10094;</button>
+            <button className="next" onClick={nextImage}>&#10095;</button>
         </div>
     );
 
