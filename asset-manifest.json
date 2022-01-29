@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GarageCarpet-Web/static/css/main.0fead9fc.chunk.css",
+    "main.css": "/GarageCarpet-Web/static/css/main.c3943628.chunk.css",
     "main.js": "/GarageCarpet-Web/static/js/main.9768bedb.chunk.js",
     "main.js.map": "/GarageCarpet-Web/static/js/main.9768bedb.chunk.js.map",
     "runtime-main.js": "/GarageCarpet-Web/static/js/runtime-main.19e64126.js",
@@ -10,13 +10,13 @@
     "static/js/3.0ebb833a.chunk.js": "/GarageCarpet-Web/static/js/3.0ebb833a.chunk.js",
     "static/js/3.0ebb833a.chunk.js.map": "/GarageCarpet-Web/static/js/3.0ebb833a.chunk.js.map",
     "index.html": "/GarageCarpet-Web/index.html",
-    "static/css/main.0fead9fc.chunk.css.map": "/GarageCarpet-Web/static/css/main.0fead9fc.chunk.css.map",
+    "static/css/main.c3943628.chunk.css.map": "/GarageCarpet-Web/static/css/main.c3943628.chunk.css.map",
     "static/js/2.9f99313c.chunk.js.LICENSE.txt": "/GarageCarpet-Web/static/js/2.9f99313c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.19e64126.js",
     "static/js/2.9f99313c.chunk.js",
-    "static/css/main.0fead9fc.chunk.css",
+    "static/css/main.c3943628.chunk.css",
     "static/js/main.9768bedb.chunk.js"
   ]
 }
