@@ -6,13 +6,21 @@
     background-color: green;
 }
 
+.imgContainer {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    background-color: #FF0000;
+}
+
 .image{
     width: 100%;
-    height: 65vh;
+    height: 60vh;
     object-fit: cover;
     overflow:hidden;
-    z-index: 0;
+    position: relative;
 }
+
 .number {
     color: #000000;
     font-size: calc(10px + 2vmin);
@@ -24,6 +32,7 @@
     font-size: calc(10px + 2vmin);
     padding: 5px 5px;
     position: relative;
+    background-color: green;
 }
 
 .next {
