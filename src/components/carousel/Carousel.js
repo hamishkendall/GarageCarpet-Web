@@ -27,7 +27,9 @@ function Carousel() {
         else {
             setImgIndex(prevIndex => prevIndex+1);
             updateSlide(imgIndex+1);
-        }        
+        }
+        setSeconds(0);
+        setTimePercent(0);
     }
 
     function previousImage(){
@@ -39,6 +41,8 @@ function Carousel() {
             setImgIndex(prevIndex => prevIndex-1);
             updateSlide(imgIndex-1);
         }
+        setSeconds(0);
+        setTimePercent(0);
     }
 
     useEffect(() => {
@@ -48,8 +52,6 @@ function Carousel() {
           setTimePercent((seconds / imageShowTime) * 100 + (100 / imageShowTime));
 
           if(seconds >= imageShowTime){
-            setSeconds(0);
-            setTimePercent(0);
             nextImage();
           }
 
