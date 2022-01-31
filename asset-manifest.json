@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/GarageCarpet-Web/static/css/main.32a37743.chunk.css",
-    "main.js": "/GarageCarpet-Web/static/js/main.2e4da040.chunk.js",
-    "main.js.map": "/GarageCarpet-Web/static/js/main.2e4da040.chunk.js.map",
+    "main.js": "/GarageCarpet-Web/static/js/main.9243f9f8.chunk.js",
+    "main.js.map": "/GarageCarpet-Web/static/js/main.9243f9f8.chunk.js.map",
     "runtime-main.js": "/GarageCarpet-Web/static/js/runtime-main.19e64126.js",
     "runtime-main.js.map": "/GarageCarpet-Web/static/js/runtime-main.19e64126.js.map",
     "static/js/2.8fae786a.chunk.js": "/GarageCarpet-Web/static/js/2.8fae786a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.19e64126.js",
     "static/js/2.8fae786a.chunk.js",
     "static/css/main.32a37743.chunk.css",
-    "static/js/main.2e4da040.chunk.js"
+    "static/js/main.9243f9f8.chunk.js"
   ]
 }
