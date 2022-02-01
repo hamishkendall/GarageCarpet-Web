@@ -8,7 +8,6 @@ function Carousel() {
     const images = require('../../data/CarouselImages.json');
     const imageShowTime = 7;
 
-
     const [imgIndex, setImgIndex] = useState(0);
     const [imgSlide, setImgSlide] = useState(images[0]);
 
@@ -47,18 +46,18 @@ function Carousel() {
 
     useEffect(() => {
         const interval = setInterval(() => {
-          setSeconds((seconds) => seconds + 1);
+            setSeconds((seconds) => seconds + 1);
 
-          setTimePercent((seconds / imageShowTime) * 100 + (100 / imageShowTime));
+            setTimePercent((seconds / imageShowTime) * 100 + (100 / imageShowTime));
 
-          if(seconds >= imageShowTime){
-            nextImage();
-          }
+            if(seconds >= imageShowTime){
+                nextImage();
+            }
 
         }, 1000);
     
         return () => {
-          clearInterval(interval);
+            clearInterval(interval);
         };
       }, [seconds, nextImage]);
 
